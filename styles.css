@@ -1,0 +1,36 @@
+* {
+    background-color: #d9e6f2;
+}
+
+body {
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+header {
+    color: blue;
+    font-size: 28px;
+}
+
+article {
+    font-size: 16px;
+    font-family: Verdana;
+}
+
+p {
+    color: black;
+}
+
+footer {
+    margin-top:50px;
+}
+.intro {
+    font-family: cursive;
+}
+
+.image {
+    margin: 10px;
+    margin-left: 350px;
+    margin-right: 250px;
+}
